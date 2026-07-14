@@ -1,15 +1,9 @@
 # 🖥️ Server Health CLI
 
-```{=html}
 
-```
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-```{=html}
-
-```
 
 ------------------------------------------------------------------------
 
